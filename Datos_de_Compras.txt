@@ -1,0 +1,77 @@
+Datos de Compras
+
+---=======---
+
+***id: 1 *** Producto: Monitor *** Precio: $459.99 *** garantia: 5 *** cliente:  juan    
+
+---=======---
+
+
+---=======---
+
+***id: 2 *** Producto: Teclado *** Precio: $29.99 *** garantia: 2 *** cliente:  María    
+
+---=======---
+
+
+---=======---
+
+***id: 3 *** Producto: Ratón *** Precio: $19.99 *** garantia: 1 *** cliente:  Pedro   
+ 
+---=======---
+
+
+---=======---
+
+***id: 4 *** Producto: Auriculares *** Precio: $79.99 *** garantia: 3 *** cliente:  Laura    
+
+---=======---
+
+
+---=======---
+
+***id: 5 *** Producto: Impresora *** Precio: $189.99 *** garantia: 4 *** cliente:  Carlos    
+
+---=======---
+
+
+---=======---
+
+***id: 6 *** Producto: Tableta *** Precio: $299.99 *** garantia: 2 *** cliente:  Sofía    
+
+---=======---
+
+
+---=======---
+
+***id: 7 *** Producto: Teléfono *** Precio: $599.99 *** garantia: 1 *** cliente:  Alejandro    
+
+---=======---
+
+
+---=======---
+
+***id: 8 *** Producto: Monitor *** Precio: $379.99 *** garantia: 5 *** cliente:  Andrea    
+
+---=======---
+
+
+---=======---
+
+***id: 9 *** Producto: Teclado *** Precio: $20.99 *** garantia: 2 *** cliente:  Pablo    
+
+---=======---
+
+
+---=======---
+
+***id: 10 *** Producto: Mouse *** Precio: $14.99 *** garantia: 1 *** cliente:  Ana    
+
+---=======---
+
+
+---=======---
+
+***id: 11 *** Producto: movil *** Precio: $114.99 *** garantia: 1 *** cliente:  barbara     
+
+---=======---
